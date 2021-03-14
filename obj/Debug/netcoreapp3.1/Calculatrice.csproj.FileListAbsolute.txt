@@ -1,0 +1,16 @@
+F:\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\Calculatrice.exe
+F:\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\Calculatrice.deps.json
+F:\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\Calculatrice.runtimeconfig.json
+F:\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\Calculatrice.runtimeconfig.dev.json
+F:\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\Calculatrice.dll
+F:\Calculatrice\Calculatrice\bin\Debug\netcoreapp3.1\Calculatrice.pdb
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.csprojAssemblyReference.cache
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.Form1.resources
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.Properties.Resources.resources
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.csproj.GenerateResource.cache
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.AssemblyInfoInputs.cache
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.AssemblyInfo.cs
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.csproj.CoreCompileInputs.cache
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.dll
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.pdb
+F:\Calculatrice\Calculatrice\obj\Debug\netcoreapp3.1\Calculatrice.genruntimeconfig.cache
